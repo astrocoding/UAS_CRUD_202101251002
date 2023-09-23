@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mahasiswa App</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="hobi">Hobi</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="detail">View Detail</string>
+    <string name="about">About</string>
+    <string name="dev">Zaenal Alfian</string>
+    <string name="contributor">Contributor</string>
+    <string name="noinduk">202101251002</string>
+    <string name="ver">Version</string>
+    <string name="desc">Aplikasi ini dirancang khusus sebagai basis dari biodata mahasiswa/i STMIK Rosma.</string>
+    <string name="aboutme">Saya adalah seorang penggiat teknologi IT terutama di bidang web dan mobile development. Saya suka belajar hal baru dan bisa beradaptasi dengan baik dalam situasi di luar rencana.</string>
+    <string name="email">zaenal.alfian@mhs.rosma.ac.id</string>
+    <string name="version">Version 1.2.1</string>
+    <string name="judul">Biodata Mahasiswa</string>
+</resources>

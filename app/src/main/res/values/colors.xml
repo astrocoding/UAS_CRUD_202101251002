@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dino_200">#88304E</color>
+    <color name="dino_500">#E23E57</color>
+    <color name="dino_700">#E23E57</color>
+    <color name="rex_200">#F67280</color>
+    <color name="rex_700">#E23E57</color>
+    <color name="raptor_200">#FFEADD</color>
+    <color name="raptor_500">#F5F5F5</color>
+    <color name="background">#E4E4E4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
